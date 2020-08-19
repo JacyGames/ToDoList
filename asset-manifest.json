@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/JacyGames/ToDoList/static/css/main.7edadea8.chunk.css",
-    "main.js": "/JacyGames/ToDoList/static/js/main.0f095e92.chunk.js",
-    "main.js.map": "/JacyGames/ToDoList/static/js/main.0f095e92.chunk.js.map",
-    "runtime-main.js": "/JacyGames/ToDoList/static/js/runtime-main.ef2096b8.js",
-    "runtime-main.js.map": "/JacyGames/ToDoList/static/js/runtime-main.ef2096b8.js.map",
-    "static/js/2.72b4d8a9.chunk.js": "/JacyGames/ToDoList/static/js/2.72b4d8a9.chunk.js",
-    "static/js/2.72b4d8a9.chunk.js.map": "/JacyGames/ToDoList/static/js/2.72b4d8a9.chunk.js.map",
-    "index.html": "/JacyGames/ToDoList/index.html",
-    "precache-manifest.d82f300720d1cb9fb7735ad81a3ba27d.js": "/JacyGames/ToDoList/precache-manifest.d82f300720d1cb9fb7735ad81a3ba27d.js",
-    "service-worker.js": "/JacyGames/ToDoList/service-worker.js",
-    "static/css/main.7edadea8.chunk.css.map": "/JacyGames/ToDoList/static/css/main.7edadea8.chunk.css.map",
-    "static/js/2.72b4d8a9.chunk.js.LICENSE.txt": "/JacyGames/ToDoList/static/js/2.72b4d8a9.chunk.js.LICENSE.txt"
+    "main.css": "/ToDoList/static/css/main.7edadea8.chunk.css",
+    "main.js": "/ToDoList/static/js/main.0f095e92.chunk.js",
+    "main.js.map": "/ToDoList/static/js/main.0f095e92.chunk.js.map",
+    "runtime-main.js": "/ToDoList/static/js/runtime-main.3d9c94f0.js",
+    "runtime-main.js.map": "/ToDoList/static/js/runtime-main.3d9c94f0.js.map",
+    "static/js/2.72b4d8a9.chunk.js": "/ToDoList/static/js/2.72b4d8a9.chunk.js",
+    "static/js/2.72b4d8a9.chunk.js.map": "/ToDoList/static/js/2.72b4d8a9.chunk.js.map",
+    "index.html": "/ToDoList/index.html",
+    "precache-manifest.83a45fba6be06ae2f6f13ea0f7d5ad9b.js": "/ToDoList/precache-manifest.83a45fba6be06ae2f6f13ea0f7d5ad9b.js",
+    "service-worker.js": "/ToDoList/service-worker.js",
+    "static/css/main.7edadea8.chunk.css.map": "/ToDoList/static/css/main.7edadea8.chunk.css.map",
+    "static/js/2.72b4d8a9.chunk.js.LICENSE.txt": "/ToDoList/static/js/2.72b4d8a9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ef2096b8.js",
+    "static/js/runtime-main.3d9c94f0.js",
     "static/js/2.72b4d8a9.chunk.js",
     "static/css/main.7edadea8.chunk.css",
     "static/js/main.0f095e92.chunk.js"
